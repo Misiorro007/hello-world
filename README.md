@@ -9,7 +9,7 @@ what i ❤️ is: -> ⚽ 🎾 🏊 🍷 👯 🇵🇱 🇭🇷
   <p>
 I have a 🐶 named Koko -> probably you will see him here one day 🤠
     
-<div ng-app="iNeedWork">
+<div ng-app="main.js">
   <div class="jumbotron" ng-controller="iNeedWorkController">
     <button ng-click="sendTheJobAlert()"class="btn btn-danger btn-block" type="submit">Hey, Click Here!</button>
   </div>
