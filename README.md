@@ -14,3 +14,18 @@ I have a 🐶 named Koko -> probably you will see him here one day 🤠
     <button ng-click="sendTheJobAlert()"class="btn btn-danger btn-block" type="submit">Hey, Click Here!</button>
   </div>
 </div>
+body{
+  font-family:  'Lato', sans-serif;
+}
+.jumbotron {
+  width: 400px;
+  margin: 20px auto;
+}
+angular.module("iNeedWork", []);
+angular.module("iNeedWork").controller("iNeedWorkController",  $scope=>{
+  function sendTheJobAlert(){
+    alert("I'm looking for job!");
+  };
+
+  $scope.sendTheJobAlert = sendTheJobAlert;
+});
