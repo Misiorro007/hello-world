@@ -13,6 +13,7 @@ I have a 🐶 named Koko -> probably you will see him here one day 🤠
  <p>   
 <img width=”200" height=”200" src=”https://github.com/Misiorro007/hello-world/images/Koko dalej spoko.jpeg" alt=”my banner”>
 </p>
-    
-<a href=”https://www.linkedin.com/in/marcin-misiak-47557393">
-<img align=”left” src=”https://raw.githubusercontent.com/Misiorro007/hello-world/main/images/linkedin.svg" alt=”logoLinkIn LinkedIn” width=”21px”/></a>
+ 
+                                                                                                           
+
+<a href="https://www.linkedin.com/in/Misiorro007/"><img align="left" src="https://raw.githubusercontent.com/Misiorro007/hello-world/main/images/linkedin.svg" alt="Marcin Misiak | LinkedIn" width="21px"/></a>
