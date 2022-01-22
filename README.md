@@ -10,7 +10,7 @@ what i ❤️ is: -> ⚽ 🎾 🏊 🍷 👯 🇵🇱 🇭🇷
 I have a 🐶 named Koko -> probably you will see him here one day 🤠
     
     <p align=”center”>
-<img width=”200" height=”200" src=”https://github.com/Misiorro007/hello-world/blob/main/images/Koko%20dalej%20spoko.jpeg" alt=”my banner”>
+<img width=”200" height=”200" src=”https://github.com/Misiorro007/hello-world/blob/50ee94a20786ccca29d53605191748ec351dc9c9/images/Koko%20dalej%20spoko.jpeg" alt=”my banner”>
 </p>
     
 <a href=”https://www.linkedin.com/in/marcin-misiak-47557393">
