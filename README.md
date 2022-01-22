@@ -8,8 +8,9 @@ Nothing special to tell about me - just a simple guy with who is living his life
 what i ❤️ is: -> ⚽ 🎾 🏊 🍷 👯 🇵🇱 🇭🇷 
   <p>
 I have a 🐶 named Koko -> probably you will see him here one day 🤠
+    </p>
     
-    <p align=”center”>
+ <p>   
 <img width=”200" height=”200" src=”https://github.com/Misiorro007/hello-world/blob/50ee94a20786ccca29d53605191748ec351dc9c9/images/Koko%20dalej%20spoko.jpeg" alt=”my banner”>
 </p>
     
